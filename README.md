@@ -30,7 +30,7 @@ EDA in progress
 ## 🚀 Learning Roadmap
 ✅ Python Module Completed  
 🔄 EDA In Progress  
-⏳ Machine Learning (Next)
+⏳ SQL (Next)
 
 ## 📫 Contact
 GitHub: https://github.com/vinodhpalli
