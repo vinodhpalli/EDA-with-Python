@@ -20,7 +20,8 @@ To explore, clean, and analyze datasets to discover patterns, trends, and insigh
 - Insights & Conclusions
 
 ## Status
-EDA in progress
+✅ EDA Completed
+🔄 Advanced Statistics In Progress
 
 ## 📂 Datasets Used
 - Titanic Dataset
